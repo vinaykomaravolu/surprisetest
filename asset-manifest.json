@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vinaykomaravolu/jerrybirthday/static/css/main.2c040c4f.css",
-    "main.js": "/vinaykomaravolu/jerrybirthday/static/js/main.e0ff380a.js",
-    "static/js/333.a90a4f72.chunk.js": "/vinaykomaravolu/jerrybirthday/static/js/333.a90a4f72.chunk.js",
-    "static/media/jerrypokemonecomission.png": "/vinaykomaravolu/jerrybirthday/static/media/jerrypokemonecomission.931ca40ba18ef674152f.png",
-    "static/media/pokemonptheme.mp3": "/vinaykomaravolu/jerrybirthday/static/media/pokemonptheme.d801bbeb5f7086e7b68d.mp3",
-    "index.html": "/vinaykomaravolu/jerrybirthday/index.html",
-    "main.2c040c4f.css.map": "/vinaykomaravolu/jerrybirthday/static/css/main.2c040c4f.css.map",
-    "main.e0ff380a.js.map": "/vinaykomaravolu/jerrybirthday/static/js/main.e0ff380a.js.map",
-    "333.a90a4f72.chunk.js.map": "/vinaykomaravolu/jerrybirthday/static/js/333.a90a4f72.chunk.js.map"
+    "main.css": "/jerrybirthday/static/css/main.2c040c4f.css",
+    "main.js": "/jerrybirthday/static/js/main.130184ce.js",
+    "static/js/333.a90a4f72.chunk.js": "/jerrybirthday/static/js/333.a90a4f72.chunk.js",
+    "static/media/jerrypokemonecomission.png": "/jerrybirthday/static/media/jerrypokemonecomission.931ca40ba18ef674152f.png",
+    "static/media/pokemonptheme.mp3": "/jerrybirthday/static/media/pokemonptheme.d801bbeb5f7086e7b68d.mp3",
+    "index.html": "/jerrybirthday/index.html",
+    "main.2c040c4f.css.map": "/jerrybirthday/static/css/main.2c040c4f.css.map",
+    "main.130184ce.js.map": "/jerrybirthday/static/js/main.130184ce.js.map",
+    "333.a90a4f72.chunk.js.map": "/jerrybirthday/static/js/333.a90a4f72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c040c4f.css",
-    "static/js/main.e0ff380a.js"
+    "static/js/main.130184ce.js"
   ]
 }
