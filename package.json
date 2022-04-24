@@ -1,10 +1,10 @@
 {
   "name": "personal-website-react",
   "version": "0.1.0",
-  "homepage": "",
-  "description": "A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!",
-  "repository": "https://github.com/taniyow/react-portfolio",
-  "author": "Mark Tan <markcmtan@gmail.com>",
+  "homepage": "https://github.com/vinaykomaravolu/jerrybirthday",
+  "description": "Jerry Birthday",
+  "repository": "https://github.com/vinaykomaravolu/jerrybirthday",
+  "author": "Vinay",
   "license": "MIT",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
